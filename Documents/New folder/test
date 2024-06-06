@@ -1,0 +1,9 @@
+# testing f strings here
+while True:
+    name = input("enter the name here: ")
+    if (name == "harsh"):
+        print("bhaad me jaa")
+        break
+    country = input("enter the country here: ")
+    a = f"Hi my name is {name} and i am from {country}\n"
+    print(a)

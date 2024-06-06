@@ -1,0 +1,136 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "recursionbasics",
+            "request": "launch",
+            "mainClass": "recursionbasics",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "Snakegame",
+            "request": "launch",
+            "mainClass": "Snakegame.Snakegame",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "Snakegame",
+            "request": "launch",
+            "mainClass": "snakegame.Snakegame",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "stringuppercase",
+            "request": "launch",
+            "mainClass": "stringuppercase",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "problems2darray",
+            "request": "launch",
+            "mainClass": "problems2darray",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "diagonalsum",
+            "request": "launch",
+            "mainClass": "diagonalsum",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "spiralmatrix",
+            "request": "launch",
+            "mainClass": "spiralmatrix",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "sorting1",
+            "request": "launch",
+            "mainClass": "sorting1",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "triplets",
+            "request": "launch",
+            "mainClass": "triplets",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "arraycompare",
+            "request": "launch",
+            "mainClass": "arraycompare",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "trappedrainwater",
+            "request": "launch",
+            "mainClass": "trappedrainwater",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "sum_functions",
+            "request": "launch",
+            "mainClass": "sum_functions",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "floyd",
+            "request": "launch",
+            "mainClass": "floyd",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "type": "java",
+            "name": "javabasics",
+            "request": "launch",
+            "mainClass": "javabasics",
+            "projectName": "New folder_c89b1267"
+        },
+        {
+            "name": "C/C++: gcc.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
